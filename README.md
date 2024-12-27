@@ -26,10 +26,3 @@ This repository is a comprehensive toolkit for Data Visualization and Feature Se
 
 ---
 
-## Folder Structure
-
-- **DataVisualization/**: Contains modules and utilities for creating visualizations.
-- **FeatureSelection/**: Contains modules for implementing wrapper feature selection methods.
-- **WrapperFeatureSelection/**: Specific implementations of wrapper feature selection algorithms.
-
----
